@@ -1,4 +1,4 @@
-serverBasePath = typeof serverBasePath == 'undefined' ? '../../' : serverBasePath;
+serverBasePath = typeof serverBasePath == 'undefined' ? '/bone101/' : serverBasePath;
 var name = "#floatMenu";  
 var menuYloc = null;  
   
